@@ -47,8 +47,10 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -93,7 +95,6 @@
             this.yağısalProgramlamaToolStripMenuItem.Name = "yağısalProgramlamaToolStripMenuItem";
             this.yağısalProgramlamaToolStripMenuItem.Size = new System.Drawing.Size(247, 22);
             this.yağısalProgramlamaToolStripMenuItem.Text = "Yapısal Programlama";
-            this.yağısalProgramlamaToolStripMenuItem.Click += new System.EventHandler(this.yağısalProgramlamaToolStripMenuItem_Click);
             // 
             // danışmanlıkToolStripMenuItem
             // 
@@ -143,6 +144,7 @@
             // 
             // panel1
             // 
+            this.panel1.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.panel1.Controls.Add(this.textBox6);
             this.panel1.Controls.Add(this.textBox4);
             this.panel1.Controls.Add(this.textBox1);
@@ -150,10 +152,11 @@
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label2);
-            this.panel1.Location = new System.Drawing.Point(328, 199);
+            this.panel1.Location = new System.Drawing.Point(38, 209);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(361, 215);
+            this.panel1.Size = new System.Drawing.Size(327, 223);
             this.panel1.TabIndex = 8;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // textBox6
             // 
@@ -213,6 +216,16 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Öğrenci No";
             // 
+            // dataGridView1
+            // 
+            this.dataGridView1.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(487, 209);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(538, 223);
+            this.dataGridView1.TabIndex = 9;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            // 
             // ogretimeleman
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -220,6 +233,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1051, 669);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
@@ -228,10 +242,12 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "ogretimeleman";
             this.Text = "ogretimeleman";
+            this.Load += new System.EventHandler(this.ogretimeleman_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -257,5 +273,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }

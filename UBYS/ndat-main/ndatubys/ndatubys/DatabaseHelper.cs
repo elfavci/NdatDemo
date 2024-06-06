@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System;
 using System.Data.SqlClient;
 using System.Configuration; // Bu satırı ekleyin
+using System.Data;
 
 namespace ndatubys
 {
@@ -78,15 +79,59 @@ namespace ndatubys
         {
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                string query = "UPDATE PUAN SET VizeNot = @VizeNot, FinalNot = @FinalNot WHERE OgrenciNo = @OgrenciNo";
+                string query = @"
+                    UPDATE PUAN 
+                    SET VizeNot = @VizeNot, 
+                        FinalNot = @FinalNot, 
+                        Ortalama = @Ortalama, 
+                        HarfNotu = @HarfNotu 
+                    WHERE OgrenciNo = @OgrenciNo";
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@OgrenciNo", ogrenciNo);
                     command.Parameters.AddWithValue("@VizeNot", vizeNot);
                     command.Parameters.AddWithValue("@FinalNot", finalNot);
 
+
+                    // Ortalama hesaplama
+                    float ortalama = (float)(vizeNot * 0.4) + (float)(finalNot * 0.6);
+                    command.Parameters.AddWithValue("@Ortalama", ortalama);
+
+                    // Harf notu hesaplama
+                    string harfNotu = HesaplaHarfNotu(ortalama);
+                    command.Parameters.AddWithValue("@HarfNotu", harfNotu);
                     connection.Open();
                     command.ExecuteNonQuery();
+                }
+            }
+        }
+        private string HesaplaHarfNotu(float ortalama)
+        {
+            if (ortalama >= 90) return "AA";
+            else if (ortalama >= 85) return "BA";
+            else if (ortalama >= 80) return "BB";
+            else if (ortalama >= 75) return "CB";
+            else if (ortalama >= 70) return "CC";
+            else if (ortalama >= 65) return "DC";
+            else if (ortalama >= 60) return "DD";
+            else if (ortalama >= 50) return "FD";
+            else return "FF";
+        }
+
+        public DataTable GetUpdatedGrades()
+        {
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                string query = "SELECT OgrenciNo, VizeNot, FinalNot, Ortalama, HarfNotu FROM PUAN";
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    connection.Open();
+                    using (SqlDataReader reader = command.ExecuteReader())
+                    {
+                        DataTable dataTable = new DataTable();
+                        dataTable.Load(reader);
+                        return dataTable;
+                    }
                 }
             }
         }
