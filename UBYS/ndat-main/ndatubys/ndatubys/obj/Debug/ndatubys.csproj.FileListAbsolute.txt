@@ -1,0 +1,74 @@
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\bin\Debug\ndatubys.exe.config
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\bin\Debug\ndatubys.exe
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\bin\Debug\ndatubys.pdb
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.AssemblyReference.cache
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.Form1.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.Properties.Resources.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.GenerateResource.cache
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.CoreCompileInputs.cache
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.exe
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.pdb
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.ogrenciekrani.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.idareci.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.ogretimeleman.resources
+C:\Users\Sevim Kendir PC\source\repos\ndatubys\ndatubys\obj\Debug\ndatubys.SistemYoneticisi.resources
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\Database1.mdf
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\Database1_log.ldf
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.exe.config
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.exe
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.pdb
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.AssemblyReference.cache
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.SuggestedBindingRedirects.cache
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.Form1.resources
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.idareci.resources
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.ogrenciekrani.resources
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.ogretimeleman.resources
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.Properties.Resources.resources
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.SistemYoneticisi.resources
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.GenerateResource.cache
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.CoreCompileInputs.cache
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.exe
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.pdb
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\elif_\OneDrive\Masaüstü\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.CopyComplete
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\Database1.mdf
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\Database1_log.ldf
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.exe.config
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.exe
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.pdb
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.AssemblyReference.cache
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.SuggestedBindingRedirects.cache
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.Form1.resources
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.idareci.resources
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.ogrenciekrani.resources
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.ogretimeleman.resources
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.Properties.Resources.resources
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.SistemYoneticisi.resources
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.GenerateResource.cache
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.CoreCompileInputs.cache
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.CopyComplete
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.exe
+C:\Users\elif_\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.pdb
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\Database1.mdf
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\Database1_log.ldf
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.exe.config
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.exe
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\ndatubys.pdb
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.AssemblyReference.cache
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.SuggestedBindingRedirects.cache
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.Form1.resources
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.idareci.resources
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.ogrenciekrani.resources
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.ogretimeleman.resources
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.Properties.Resources.resources
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.SistemYoneticisi.resources
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.GenerateResource.cache
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.CoreCompileInputs.cache
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.csproj.CopyComplete
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.exe
+C:\Users\elif_\OneDrive\Belgeler\GitHub\NdatDemo\UBYS\ndat-main\ndatubys\ndatubys\obj\Debug\ndatubys.pdb
